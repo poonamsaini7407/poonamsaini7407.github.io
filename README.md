@@ -1,4 +1,4 @@
-# Noemia L. Mahmud — Portfolio
+# Poonam Saini — Portfolio
 
 Personal portfolio showcasing research, internships, and projects at the intersection of
 neuroscience, AI, and software engineering.
